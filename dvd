@@ -1,1 +1,11 @@
-d
+{
+  "data": [
+{
+      "admob_interstitial":"/21753324030,22780729941/com.dvdremote.setupboxremote.acremote.tvremote.controlfor.alldevices_Interstitial",
+      "admob_native":"/21753324030,22780729941/com.dvdremote.setupboxremote.acremote.tvremote.controlfor.alldevices_Native",
+      "admob_banner":"/21753324030,22780729941/com.dvdremote.setupboxremote.acremote.tvremote.controlfor.alldevices_Banner",
+      "admob_appopen":"/21753324030,22780729941/com.dvdremote.setupboxremote.acremote.tvremote.controlfor.alldevices_AppOpen",
+      "ispurchaseItem":"1"
+}
+]
+}
