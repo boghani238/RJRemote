@@ -1,0 +1,11 @@
+{
+  "data": [
+{
+      "admob_interstitial":"/21753324030,22780729941/com.universal.alltv.tvremote.rjcontrol_Interstitial",
+      "admob_native":"/21753324030,22780729941/com.universal.alltv.tvremote.rjcontrol_Native",
+      "admob_banner":"/21753324030,22780729941/com.universal.alltv.tvremote.rjcontrol_Banner",
+      "admob_appopen":"/21753324030,22780729941/com.universal.alltv.tvremote.rjcontrol_AppOpen",
+      "ispurchaseItem":"1"
+}
+]
+}
